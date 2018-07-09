@@ -11,3 +11,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 
 ### Section 02: Meeting Schedule
+
+The Men's Fellowship will meet once a month, on the last Sunday of each month.  The Men's Fellowship Executives will meet a few days before each meeting to ensure that all preparations are complete, and that each meeting is completed smoothly.
+
+The Men's Fellowship will also hold a joint meeting with the RCCG Women's Fellowship at least twice per year.
