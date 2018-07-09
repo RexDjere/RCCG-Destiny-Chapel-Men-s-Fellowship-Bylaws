@@ -3,7 +3,7 @@ The repository holds the bylaws for RCCG Destiny Chapel Men's Fellowship. This i
 
 ___________________________________________________________________________________________________________________
 **Navigation:**
-- [Readme.md](Readme.md) - Home
+- [Readme.md](README.md)       - Home
 - [Section01.md](Section01.md) - Executive Positions and Membership Requirements
 - [Section02.md](Section02.md) - Meeting Schedule
 - [Section03.md](Section03.md) - Membership Dues
