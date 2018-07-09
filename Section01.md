@@ -2,8 +2,8 @@
 ## RCCG Destiny Chapel Men's Fellowship Bylaws
 
 ### Section 01: Executive Positions and Membership Requirements
-
-**Navigation**
+___________________________________________________________________________________________________________________
+**Navigation:**
 - [Readme.md](Readme.md) - Home
 - [Section01.md](Section01.md) - Executive Positions and Membership Requirements
 - [Section02.md](Section02.md) - Meeting Schedule
