@@ -10,6 +10,7 @@
 - [Section03.md](Section03.md) - Membership Dues
 - [Section04.md](Section04.md) - Membership Privileges
 
+___________________________________________________________________________________________________________________
 THe RCCG Destiny Chapel shall have the following Executive positions:
 - President
 - Vice-President
