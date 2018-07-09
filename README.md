@@ -8,4 +8,4 @@ ________________________________________________________________________________
 - [Section04.md](Section04.md) - Membership Privileges
 
 ___________________________________________________________________________________________________________________
-The repository holds the bylaws for RCCG Destiny Chapel Men's Fellowship. This is a living document that will will revised frequently until it reaches a stable release.  It is still currently in the draft phase.
+This repository holds the bylaws for RCCG Destiny Chapel Men's Fellowship. This is a living document that will will revised frequently until it reaches a stable release.  It is still currently in the draft phase.
