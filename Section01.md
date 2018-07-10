@@ -19,7 +19,7 @@ THe RCCG Destiny Chapel Men's Fellowship shall have the following Executive posi
 - Secretary
 - Social/Publicity Secretary
 
-Membership in the Men's Fellowship is open to any RCCG Detiny Chapel member who:
+Membership in the Men's Fellowship is open to any RCCG Destiny Chapel member who:
 - is an adult male, age 18 or older
 - is single or married
 - pays the appropriate membership dues (see [Section 3](Section03.md) for dues)
