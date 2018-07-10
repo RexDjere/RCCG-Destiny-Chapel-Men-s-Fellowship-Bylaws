@@ -10,4 +10,4 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________
 ## README.md - Home
 
-This repository holds the bylaws for RCCG Destiny Chapel Men's Fellowship. This is a living document that will be revised frequently until it reaches a stable release.  It is currently in the draft phase.
+This repository holds the bylaws for RCCG Destiny Chapel Men's Fellowship. This is a living document that will be revised frequently until it reaches a stable release.  It is currently in the draft phase. TEST 123
