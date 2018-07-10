@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 ### Section 01: Executive Positions and Membership Requirements
 
-THe RCCG Destiny Chapel shall have the following Executive positions:
+THe RCCG Destiny Chapel Men's Fellowship shall have the following Executive positions:
 - President
 - Vice-President
 - Treasurer
