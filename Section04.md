@@ -14,3 +14,5 @@ Each Men's Fellowship member who remains current on his dues will be entitled to
 - One time gift of $100 upon permanent transfer away from RCCG Destiny Chapel.
 - $100 gift upon the birth of a child.
 - $100 bereavement gift upon the death of a parent.
+
+Note: Any member who is not current on his dues loses all privileges stated above until he is current.
