@@ -16,3 +16,5 @@ Each Men's Fellowship member who remains current on his dues will be entitled to
 - $100 bereavement gift upon the death of a parent.
 
 **Note:** Any member who is not current on his dues loses all privileges stated above until he is current.
+
+Members are expected to show solidarity with the Men's Fellowship, and attend as may Men's Fellowship functions as possible.
