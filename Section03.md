@@ -13,4 +13,6 @@ ________________________________________________________________________________
 
 Each member of the Men's Fellowship will pay dues of $30 per month.  
 
+If a Men's Fellowship member falls 2 months or more behind on his dues, he loses all membership privileges until he becomes current.
+
 The Men's Fellowship Executives will function on behalf of members in between meetings. During meetings, the Executives will make every effort to get concurrence from the members. The Executives, in coordination with the members, will create a budget to fund Men's Fellowship activities during each fiscal year.
